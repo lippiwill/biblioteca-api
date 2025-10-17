@@ -1,40 +1,41 @@
-# üìö API Biblioteca
+copy con README.md
+API Biblioteca - Gerencia livros com eficiància 
+copy con README.md
+API Biblioteca - Gerencie livros com eficiància
 
-API desenvolvida para gerenciamento de livros, exemplares e opera√ß√µes de uma biblioteca.
+Desenvolvi essa API em Java com Spring Boot para facilitar o gerenciamento de bibliotecas. Ela permite cadastrar livros, consultar por t°tulo, autor ou categoria, controlar exemplares dispon°veis, registrar emprÇstimos e devoluá‰es, e ainda oferece tratamento de exceá‰es personalizado.
 
-## üöÄ Tecnologias utilizadas
+O projeto usa tecnologias modernas como Java 17, Spring Boot, JPA/Hibernate, H2 para testes, e est† versionado com Git/GitHub.
 
-- Java 17
-- Spring Boot
-- Maven
-- JPA / Hibernate
-- H2 (banco em mem√≥ria para testes)
-- Git / GitHub
+Vocà pode clonar, rodar localmente com Maven e acessar via http://localhost:8080.
+Ctrl + Z
+git add README.md
+git commit -m "Corrige porta padr∆o no README"
+git push
+copy con README.md
+API Biblioteca - Gerencie livros com eficiància
 
-## üì¶ Funcionalidades
+Desenvolvi essa API em Java com Spring Boot para facilitar o gerenciamento de bibliotecas. Ela permite cadastrar livros, consultar por t°tulo, autor ou categoria, controlar exemplares dispon°veis, registrar emprÇstimos e devoluá‰es, e ainda oferece tratamento de exceá‰es personalizado.
 
-- Cadastro de livros
-- Consulta de livros por t√≠tulo, autor ou categoria
-- Atualiza√ß√£o e exclus√£o de registros
-- Controle de exemplares dispon√≠veis
-- Tratamento de exce√ß√µes personalizadas
+O projeto usa tecnologias modernas como Java 17, Spring Boot, JPA/Hibernate, H2 para testes, e est† versionado com Git/GitHub.
 
+Vocà pode clonar, rodar localmente com Maven e acessar via http://localhost:8080.
 
-## ‚ñ∂Ô∏è Como executar
-1. Clone o reposit√≥rio:
-   ```bash
-   git clone https://github.com/lippiwill/API-Biblioteca.git
-   
-2.Navegue at√© o Projeto:
-cd API-Biblioteca
+type README.md
+git add README.md
+git commit -m "Corrige porta padr∆o no README"
+git push
 
-3.Execute o projeto com Maven:
-mvn spring-boot:run
+Ctrl + Z
+Ctrl + Z
+type README.md
+del README.md
+copy con README.md
+API Biblioteca - Gerencie livros com eficiància
 
-4.Acesse a API:
-http://localhost:8888
+Desenvolvi essa API em Java com Spring Boot para facilitar o gerenciamento de bibliotecas. Ela permite cadastrar livros, consultar por t°tulo, autor ou categoria, controlar exemplares dispon°veis, registrar emprÇstimos e devoluá‰es, e ainda oferece tratamento de exceá‰es personalizado.
 
+O projeto usa tecnologias modernas como Java 17, Spring Boot, JPA/Hibernate, H2 para testes, e est† versionado com Git/GitHub.
 
+Vocà pode clonar, rodar localmente com Maven e acessar via http://localhost:8080.
 
-
-   
